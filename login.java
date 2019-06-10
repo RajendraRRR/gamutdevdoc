@@ -1,2 +1,3 @@
-public.class{}
-  void.class{}
+#include<studio.h>
+#include<conio.h>
+ void main ()
