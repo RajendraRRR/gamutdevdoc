@@ -1,0 +1,2 @@
+# gamutdevdoc 
+print hello world
